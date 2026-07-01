@@ -12,7 +12,7 @@ import {
 	updateQuestionsVisibility,
 	updateCategoryVisibility,
 } from '@entities/question/services';
-import { Plus, Trash2, BookOpen, BookOpenCheck, Layers, Eye, EyeOff, FolderSync } from 'lucide-react';
+import { Plus, Trash2, BookOpenCheck, Eye, EyeOff, FolderSync } from 'lucide-react';
 import { QuestionFilters } from './_ui/QuestionFilters';
 import { QuestionTable } from './_ui/QuestionTable';
 import { Pagination } from './_ui/Pagination';
