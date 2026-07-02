@@ -2,6 +2,7 @@
 
 # 프딥 — 프론트엔드, 딥하게 알자
 
+해당 프로젝트는 https://github.com/KimDanwoo/labs로 이관되었습니다.
 프론트엔드 기술면접의 핵심 개념을 **레퍼런스 · 플래시카드 · 데일리 학습**으로 익히는 학습 플랫폼
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white)
